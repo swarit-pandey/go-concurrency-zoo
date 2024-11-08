@@ -103,5 +103,5 @@ func main() {
 
 	totalWords := aggregateResult(wordCount)
 
-	fmt.Println("Total number of words from all the URLS: %d\n", totalWords)
+	fmt.Printf("Total number of words from all the URLS: %d\n", totalWords)
 }
